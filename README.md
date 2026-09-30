@@ -23,6 +23,6 @@ React · Java · Spring Boot · Oracle · PostgreSQL · Godot
 - Arquitetura de microservices.
 - Bancos de dados e ambientes de desenvolvimento com Docker.
 
-## 🚀 Projetos
+## 🚀 Projetos públicos
 
 - **EAD Microservices:** projeto back-end de estudos para gerenciamento de cursos e usuários com Java, Spring Boot e PostgreSQL.
