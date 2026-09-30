@@ -15,6 +15,8 @@ Tenho experiência em processos fiscais, contábeis, financeiros e de produção
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="Godot" title="Godot" width="48" height="48" />
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnyrubens/)
+
 React · Java · Spring Boot · Oracle · PostgreSQL · Godot
 
 ## 📚 Estudos atuais
