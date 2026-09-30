@@ -26,3 +26,4 @@ React · Java · Spring Boot · Oracle · PostgreSQL · Godot
 ## 🚀 Projetos públicos
 
 - **EAD Microservices:** projeto back-end de estudos para gerenciamento de cursos e usuários com Java, Spring Boot e PostgreSQL.
+- **Aplicativos mobiles:** Apps mobile desenvolvido com React-Nature e Expo.
